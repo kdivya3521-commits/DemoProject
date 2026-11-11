@@ -1,2 +1,3 @@
 Checking conflict two
 Wrote something all
+my changes created new branch
